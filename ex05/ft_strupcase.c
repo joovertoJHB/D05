@@ -6,12 +6,11 @@
 /*   By: jooverto <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/17 09:08:28 by jooverto          #+#    #+#             */
-/*   Updated: 2020/07/17 09:44:49 by jooverto         ###   ########.fr       */
+/*   Updated: 2020/07/17 10:43:20 by jooverto         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 #include <unistd.h>
-#include <stdio.h>
 
 char	*ft_strupcase(char *str)
 {
